@@ -1,0 +1,48 @@
+
+
+.box1{
+    width: 300 px;
+    height: 400 px;
+     background-image: url("../img/image.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+    
+}
+.box2{
+    width: 300 px;
+    height: 400 px;
+     background-image: url("../img/image1.jpg");
+     background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+    
+}
+
+.box3{
+        width: 300 px;
+        height: 400 px;
+     background-image: url("../img/image2.jpg");
+     background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+    
+}
+.box4{
+        width: 300 px;
+        height: 400 px;
+     background-image: url("../img/image3.jpg");
+     background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+}  
+
+ .box5{
+        width: 300 px;
+        height: 400 px;
+         background-image: url("../img/image4.jpg");
+         background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+        
+    }
