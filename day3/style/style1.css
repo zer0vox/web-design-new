@@ -58,11 +58,11 @@ h1{
 }  
 
  .box5{
-        width: 200px;
-        height: 300px;
+        width: 300px;
+        height: 200px;
          background-image: url("../img/image4.jpg");
          background-size: contain;
     background-repeat: no-repeat;
-    float: left;
+    float: right;
         
     }
